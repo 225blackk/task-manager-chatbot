@@ -1,5 +1,4 @@
 # task-manager-chatbot
-Chatbot Next.js
 cd/chemin/vers/task-manger-chatbot
 git init
 git add .
